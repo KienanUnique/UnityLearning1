@@ -19,7 +19,7 @@
 * При срабатывании сигнализации воспроизводиться звук сирены, громкость которого плавно затихает и возрастает
 
 ## Base Scripting 2
-![image](https://drive.google.com/uc?export=view&id=17Z4-KyaArfrqx2cXjnMtlD_Sxp5vrjJh)
+![image](https://drive.google.com/uc?export=view&id=1y4y8UhnlSr8e2W1kBbBdmMXoTSL4jrpi)
 * На уровне присутствует множество кобольдов
 * Каждый кобольд – это физический объект
 * На уровне есть множество объектов с различными эффекторами
