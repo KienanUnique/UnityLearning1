@@ -129,6 +129,18 @@ MonoBehaviour:
   reached:
     m_PersistentCalls:
       m_Calls:
+      - m_Target: {fileID: 7692405835872664545}
+        m_TargetAssemblyTypeName: UnityEngine.ParticleSystem, UnityEngine
+        m_MethodName: Play
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
       - m_Target: {fileID: 5340064449190200699}
         m_TargetAssemblyTypeName: UnityEngine.AudioSource, UnityEngine
         m_MethodName: Play
@@ -345,5 +357,10 @@ PrefabInstance:
 --- !u!4 &7499199084905023553 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 4733340085621846, guid: b395d5d6eb4b4b846acc021ee036b744, type: 3}
+  m_PrefabInstance: {fileID: 7494641959149329431}
+  m_PrefabAsset: {fileID: 0}
+--- !u!198 &7692405835872664545 stripped
+ParticleSystem:
+  m_CorrespondingSourceObject: {fileID: 198927480420149238, guid: b395d5d6eb4b4b846acc021ee036b744, type: 3}
   m_PrefabInstance: {fileID: 7494641959149329431}
   m_PrefabAsset: {fileID: 0}
